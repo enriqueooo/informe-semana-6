@@ -96,6 +96,10 @@ volumes:
 networks:
   wp-network:
 ```
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+
 ## Paso 2: Ejecutar los servicios
 
 ```bash
@@ -109,7 +113,7 @@ docker-compose up -d
 
 - **WordPress**: [http://localhost:8080](http://localhost:8080)  
   > Se mostrará un error de conexión a la base de datos, como se espera.
-
+![](4.jpg)
 ---
 
 ## 9. Resultados esperados
