@@ -138,7 +138,7 @@ docker-compose up -d
 
 ## 11. Enlace del audio
 
-> (Agrega aquí el enlace al archivo o plataforma de audio correspondiente)
+> (https://drive.google.com/file/d/1dLGf7xYWZxp524DdlIBO1gEiDwvwvD0R/view?usp=sharing)
 
 
 
